@@ -1,0 +1,74 @@
+.general-bg {
+    background-color: grey;
+}
+
+.left-box {
+    background-color: #424242;
+}
+
+.left-box button {
+    background-color: #424242;
+    color: white;
+}
+
+.middle-box {
+    background-color: white;
+}
+
+.right-box {
+    background-color: #e8f5e9;
+    box-shadow: 5px 4px 0px 0px #303f9f;
+}
+
+.right-box p {
+    color: darkblue;
+}
+
+h3 {
+    inline-size: auto;
+}
+
+.rb-main {
+    border: solid 1px darkgrey;
+    border-left: none;
+    border-right: none;
+}
+
+.btn-cancel-lb {
+    border-style: solid;
+    border-color: lightgrey;
+    font-size: 14px;
+}
+
+.btn-advance-lb {
+    border-style: solid;
+    border-color: green;
+    font-size: 14px;
+}
+
+.btn-cancel-mb {
+    border-style: solid;
+    background-color: #eee;
+    border-color: lightgrey;
+    font-size: 14px;
+}
+
+.btn-advance-mb {
+    border-style: solid;
+    background-color: #43a047;
+    border-color: green;
+    font-size: 14px;
+}
+
+.btn-cancel-rb {
+    border-style: solid;
+    border-color: darkblue;
+    font-size: 14px;
+}
+
+.btn-advance-rb {
+    border-style: solid;
+    background-color: #303f9f;
+    border-color: darkblue;
+    font-size: 14px;
+}
